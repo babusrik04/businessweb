@@ -1,4 +1,4 @@
-import { ArrowRight, Zap } from 'lucide-react';
+import { ArrowRight, Zap, MessageCircle } from 'lucide-react';
 
 interface HeroProps {
   onGetStarted: () => void;
@@ -18,7 +18,7 @@ export default function Hero({ onGetStarted }: HeroProps) {
         </h1>
 
         <p className="text-xl text-slate-600 mb-10 max-w-2xl mx-auto leading-relaxed">
-          We build high-converting websites, social media presence, and lead systems so you can focus on growing your business.
+          Quick Nirmaan helps businesses go online with professional websites, social media setup, and lead generation systems.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
@@ -29,12 +29,15 @@ export default function Hero({ onGetStarted }: HeroProps) {
             Get Free Demo
             <ArrowRight size={20} />
           </button>
-          <button
-            onClick={onGetStarted}
-            className="bg-white border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-8 py-4 rounded-lg font-semibold transition-all duration-300"
+          <a
+            href="https://wa.me/919620417766"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all duration-300 transform hover:scale-105"
           >
-            Book a Call
-          </button>
+            <MessageCircle size={20} />
+            WhatsApp Chat
+          </a>
         </div>
 
         <div className="bg-white rounded-xl p-8 shadow-lg border border-slate-200">

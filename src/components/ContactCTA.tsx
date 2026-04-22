@@ -1,4 +1,4 @@
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, MessageCircle } from 'lucide-react';
 
 interface ContactCTAProps {
   onGetStarted: () => void;
@@ -24,12 +24,15 @@ export default function ContactCTA({ onGetStarted }: ContactCTAProps) {
             Get Free Demo
             <ArrowRight size={20} />
           </button>
-          <button
-            onClick={onGetStarted}
-            className="bg-blue-500 hover:bg-blue-400 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300"
+          <a
+            href="https://wa.me/919620417766"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all duration-300 transform hover:scale-105"
           >
-            Contact Now
-          </button>
+            <MessageCircle size={20} />
+            WhatsApp Chat
+          </a>
         </div>
 
         <p className="text-blue-100 text-sm">

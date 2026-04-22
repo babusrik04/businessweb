@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Facebook, Twitter, Linkedin } from 'lucide-react';
+import { Mail, Phone, MapPin, Facebook, Twitter, Linkedin, MessageCircle, Instagram } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div>
-            <h4 className="text-xl font-bold text-white mb-4">LaunchGrow Digital</h4>
+            <h4 className="text-xl font-bold text-white mb-4">Quick Nirmaan</h4>
             <p className="text-slate-400 leading-relaxed">
-              Helping small businesses go online and start getting customers in 5 days.
+              Helping businesses go online and start getting customers in 5 days.
             </p>
           </div>
 
@@ -35,17 +35,17 @@ export default function Footer() {
           <div>
             <h5 className="font-semibold text-white mb-4">Get in Touch</h5>
             <div className="space-y-3">
-              <a href="tel:+919876543210" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
+              <a href="tel:+919620417766" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <Phone size={18} />
-                <span>+91 9876543210</span>
+                <span>+91-9620417766</span>
               </a>
-              <a href="mailto:hello@launchgrowdigital.com" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
+              <a href="mailto:admin@quicknirmaan.com" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <Mail size={18} />
-                <span>hello@launchgrowdigital.com</span>
+                <span>admin@quicknirmaan.com</span>
               </a>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
-                <Phone size={18} />
-                <span>WhatsApp</span>
+              <a href="https://wa.me/919620417766" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
+                <MessageCircle size={18} />
+                <span>WhatsApp Chat</span>
               </a>
             </div>
           </div>
@@ -54,17 +54,20 @@ export default function Footer() {
         <div className="border-t border-slate-800 pt-8 mb-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-8">
             <p className="text-slate-400 text-center md:text-left">
-              © 2024 LaunchGrow Digital. All rights reserved.
+              © 2026 Quick Nirmaan. All rights reserved.
             </p>
             <div className="flex gap-6">
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
+              <a href="https://facebook.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
-                <Twitter size={20} />
+              <a href="https://instagram.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+                <Instagram size={20} />
               </a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
+              <a href="https://linkedin.com/company/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
                 <Linkedin size={20} />
+              </a>
+              <a href="https://twitter.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+                <Twitter size={20} />
               </a>
             </div>
           </div>

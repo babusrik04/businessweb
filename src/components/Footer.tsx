@@ -35,7 +35,7 @@ export default function Footer() {
           <div>
             <h5 className="font-semibold text-white mb-4">Get in Touch</h5>
             <div className="space-y-3">
-              <a href="tel:+919620417766" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
+              <a href="tel:+917382379206" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <Phone size={18} />
                 <span>+91-9620417766</span>
               </a>
@@ -43,7 +43,7 @@ export default function Footer() {
                 <Mail size={18} />
                 <span>admin@quicknirmaan.com</span>
               </a>
-              <a href="https://wa.me/919620417766" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
+              <a href="https://wa.me/917382379206" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <MessageCircle size={18} />
                 <span>WhatsApp Chat</span>
               </a>

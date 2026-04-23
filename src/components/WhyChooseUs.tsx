@@ -70,7 +70,7 @@ export default function WhyChooseUs() {
 
         <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-12 text-white text-center">
           <h3 className="text-3xl font-bold mb-4">
-            The LaunchGrow Promise
+            The QuickNirmaan Promise
           </h3>
           <p className="text-lg mb-6 max-w-2xl mx-auto">
             If you don't start receiving quality leads within 14 days, we'll optimize your system for free.

@@ -39,7 +39,7 @@ export default function WhyChooseUs() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4">
-            Why Choose LaunchGrow Digital?
+            Why Choose QuickNirmaan?
           </h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
             We're not just designers. We're your growth partners.

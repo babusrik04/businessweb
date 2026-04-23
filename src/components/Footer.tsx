@@ -57,7 +57,7 @@ export default function Footer() {
               © 2026 Quick Nirmaan. All rights reserved.
             </p>
             <div className="flex gap-6">
-              <a href="https://facebook.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61565327893255" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
                 <Facebook size={20} />
               </a>
               <a href="https://instagram.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">

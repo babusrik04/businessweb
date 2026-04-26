@@ -107,7 +107,7 @@ export default function Contact() {
               <div className="mt-12 pt-8 border-t border-slate-200">
                 <h3 className="font-bold text-slate-900 mb-4">Follow Us</h3>
                 <div className="space-y-3">
-                  <a href="https://facebook.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="block text-blue-600 hover:underline">
+                  <a href="https://www.facebook.com/profile.php?id=61565327893255" target="_blank" rel="noopener noreferrer" className="block text-blue-600 hover:underline">
                     Facebook: /quicknirmaan
                   </a>
                   <a href="https://instagram.com/quicknirmaan" target="_blank" rel="noopener noreferrer" className="block text-blue-600 hover:underline">

@@ -34,8 +34,8 @@ export default function Contact() {
                   <div>
                     <h3 className="font-bold text-slate-900 mb-1">Phone</h3>
                     <p className="text-slate-600 mb-2">Call us during business hours</p>
-                    <a href="tel:+919620417766" className="text-blue-600 font-semibold hover:underline">
-                      +91-9620417766
+                    <a href="tel:+917382379206" className="text-blue-600 font-semibold hover:underline">
+                      +91-7382379206
                     </a>
                   </div>
                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                     <h3 className="font-bold text-slate-900 mb-1">WhatsApp</h3>
                     <p className="text-slate-600 mb-2">Chat with us instantly</p>
                     <a
-                      href="https://wa.me/919620417766"
+                      href="https://wa.me/7382379206"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 font-semibold hover:underline"

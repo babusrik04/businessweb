@@ -37,7 +37,7 @@ export default function Footer() {
             <div className="space-y-3">
               <a href="tel:+917382379206" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <Phone size={18} />
-                <span>+91-9620417766</span>
+                <span>+91-7382379206</span>
               </a>
               <a href="mailto:admin@quicknirmaan.com" className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
                 <Mail size={18} />

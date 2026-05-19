@@ -75,7 +75,7 @@ export default function Careers() {
               Or reach out on WhatsApp
             </p>
             <a
-              href="https://wa.me/919620417766"
+              href="https://wa.me/917382379206"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-lg font-semibold transition-colors mt-4"
@@ -171,7 +171,7 @@ export default function Careers() {
               <ArrowRight size={20} />
             </a>
             <a
-              href="https://wa.me/919620417766"
+              href="https://wa.me/917382379206"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all"

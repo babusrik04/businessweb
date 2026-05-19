@@ -154,7 +154,7 @@ export default function Contact() {
                   Message us on WhatsApp and let's discuss your project right away.
                 </p>
                 <a
-                  href="https://wa.me/919620417766"
+                  href="https://wa.me/917382379206"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors w-full justify-center"
@@ -221,7 +221,7 @@ export default function Contact() {
               Open Contact Form
             </button>
             <a
-              href="https://wa.me/919620417766"
+              href="https://wa.me/917382379206"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all"
@@ -230,7 +230,7 @@ export default function Contact() {
               WhatsApp
             </a>
             <a
-              href="tel:+919620417766"
+              href="tel:+917382379206"
               className="bg-blue-500 hover:bg-blue-400 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all"
             >
               <Phone size={20} />

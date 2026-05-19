@@ -25,7 +25,7 @@ export default function ContactCTA({ onGetStarted }: ContactCTAProps) {
             <ArrowRight size={20} />
           </button>
           <a
-            href="https://wa.me/919620417766"
+            href="https://wa.me/917382379206"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 transition-all duration-300 transform hover:scale-105"
